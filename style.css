@@ -39,10 +39,41 @@ main{
     padding-top: 40px;
 }
 
+.btn1{
+    margin-top: 270px;
+}
+
+p{
+    color:rgb(80, 80, 84);
+    font-size: 22px;
+}
+
+.learn{
+    font-weight: 500;
+    padding: 10px 20px;
+    font-size: 17px;
+    border-radius: 20px;
+    color: rgb(245, 245, 247);
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: rgb(0, 113, 227);
+    border: none;
+    margin: 10px;
+}
+
+.buy{
+    border: 2px solid rgb(0, 113, 227) ;
+    color: rgb(0, 113, 227);
+    margin: 10px;
+}
+
 #bnr1, #bnr2, #bnr3 {
     background-image: url('flat.jpg');
     background-size: cover;
-    height: 80vh;
+    height: 85vh;
     background-position-y: -100px ;
     padding-top: 20px;
     color: white;
@@ -73,9 +104,13 @@ main{
 
 #bnr2{
     background-image: url('second.jpg');
-    background-position-y: -290px;
+    background-position-y: -390px;
     background-size: cover;
     height: 90vh;
+}
+
+#bnr2 p{
+    color: black;
 }
 
 #bnr3{
