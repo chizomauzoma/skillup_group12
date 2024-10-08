@@ -11,10 +11,6 @@
 - **Smooth Animations**: Subtle hover effects, transitions, and image sliders to enhance user experience.
 - **Cross-Browser Compatibility**: Works seamlessly across major browsers like Chrome, Safari, Firefox, and Edge.
 - **Optimized Performance**: Code is optimized for fast load times and minimal resource consumption.
-  
-## 🚀 Demo
-
-Check out the live version here: [Live Demo](https://your-live-demo-link.com)
 
 ## 📸 Screenshots
 
