@@ -6,7 +6,7 @@
 
 ## 🌟 Features
 
-- **Responsive Design**: Adapts beautifully to all screen sizes (desktop, tablet, and mobile).
+- **Responsive Design**: Adapts beautifully to all screen sizes (desktop), 😊mobile incomming.
 - **Pixel-Perfect UI**: Cloned using Apple's design principles, including precise margins, fonts, and colors.
 - **Smooth Animations**: Subtle hover effects, transitions, and image sliders to enhance user experience.
 - **Cross-Browser Compatibility**: Works seamlessly across major browsers like Chrome, Safari, Firefox, and Edge.
@@ -92,8 +92,8 @@ We welcome contributions! Here’s how you can help:
 
 Feel free to connect with me:
 
-- **GitHub**: [@yourusername](https://github.com/chizomauzoma)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/chizomauzoma)
+- **GitHub**: [@chizomauzoma](https://github.com/chizomauzoma)
+- **LinkedIn**: [chizomauzoma](https://linkedin.com/in/chizomauzoma)
 
 
 ### ⭐️ Show your support
